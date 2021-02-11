@@ -1,0 +1,64 @@
+.wrapper {
+    margin: 80px auto;
+    width: 520px;
+    border: solid 3px black;
+    font-family: sans-serif;
+    box-sizing: content-box;
+}
+
+.title {
+    border-bottom: solid 3px black;
+    padding: 5px;
+}
+
+.title h1 {
+    margin: 0;
+    padding: 0;
+    font-size: 14px;
+}
+
+.content {
+    padding: 10px;
+    margin: 10px;
+}
+
+.box-purple {
+    width: 464px;
+    border: solid 3px black;
+    height: 70px;
+    background: purple;
+    margin-left: 5px;
+    margin-top: 5px;
+}
+
+.column {
+    display: flex;
+    margin-bottom: 25px;
+    margin-top: 20px;
+    justify-content: space-around;
+}
+
+.box {
+    border: solid 3px black;
+    height: 300px;
+    width: 150px;
+    box-sizing: border-box;
+    margin-top: -10px;
+}
+
+.box-pink {
+    background: pink;
+}
+
+.box-green {
+    background: lightgreen;
+}
+
+.box-orange {
+    background: orange;
+}
+
+
+
+
+
