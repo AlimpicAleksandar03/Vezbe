@@ -1,0 +1,40 @@
+.box {
+    border: 1px solid black;
+    height: 100px;
+    width: 300px;
+    margin-left: 20px;
+    margin: auto;
+}
+
+.box-grey, 
+.box-black {
+    border: 1px solid black;
+    height: 200px;
+    width: 180px;
+}
+
+.column {
+    display: flex;
+    width: 360px;
+    margin: auto;
+}
+
+.box-green {
+    background-color: green;
+}
+
+.box-blue {
+    background-color: blue;
+}
+
+.box-grey {
+    background-color: grey;
+}
+
+.box-black {
+    background-color: black;
+}
+
+.box-orange {
+    background-color: orange;
+}
