@@ -1,0 +1,68 @@
+.wrapper {
+    margin: 80px auto;
+    width: 520px;
+    /*height: 500px;*/
+    border: solid 3px black;
+    font-family: sans-serif;
+}
+
+.title {
+    border-bottom: solid 3px black;
+    padding: 5px;
+}
+
+.title h1 {
+    margin: 0;
+    padding: 0;
+    font-size: 14px;
+}
+
+.content {
+    padding: 10px;
+    margin: 5px;
+}
+
+.box {
+    margin: 10px;
+}
+
+.box-purple {
+    width: 464px;
+    border: solid 3px black;
+    height: 70px;
+    background: purple;
+    margin: 10px    ;
+}
+
+.column {
+    margin-bottom: 20px;
+    position: relative;
+    overflow: auto;
+}
+
+.box {
+    border: solid 3px black;
+    height: 300px;
+    width: 150px;
+    box-sizing: border-box;
+    margin-top: 0px;
+}
+
+.box-pink {
+    background: pink;
+    position: absolute;
+    left: 0;
+}
+
+.box-green {
+    background: lightgreen;
+    position: relative;
+    left: 160px;
+}   
+
+.box-orange {
+    background: orange;
+    position: absolute;
+    right: 0; 
+    bottom: 0;
+}
