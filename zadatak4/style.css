@@ -1,0 +1,35 @@
+h1 {
+    color: red;
+}
+
+.green-text {
+    color: green;
+    font-family: Arial;
+    font-size: bold;
+}
+
+.center-text {
+    text-align: center;
+    background-color: grey;
+    font-family: Verdana;
+    font-weight: normal;
+    text-decoration: underline;
+}
+
+.shadow-text {
+    color: pink;
+    text-shadow: 1px 1px;
+}
+
+.diet-text {
+    float: right;
+    color: orange;
+    text-decoration: line-through;
+}
+
+h4 {
+    color: yellow;
+    margin-top: 140px;
+    text-decoration: underline;
+    text-decoration-color: red;
+}
