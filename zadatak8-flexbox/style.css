@@ -1,0 +1,62 @@
+.wrapper {
+    margin: 40px auto;
+    width: 370px;
+    border: solid 3px black;
+    font-family: sans-serif;
+    box-sizing: content;
+}
+
+.title {
+    border-bottom: solid 3px black;
+    padding: 5px;
+}
+
+.title h1 {
+    margin: 0;
+    padding: 0;
+    font-size: 14px;
+}
+
+.content {
+    padding: 21px;
+}
+
+.images {
+    margin-bottom: 10px;
+    display: flex;
+    justify-content: space-between;
+}
+
+.boxes {
+    margin-bottom: 10px;
+    display: flex;
+    justify-content: space-between;
+    margin-bottom: 0px
+}
+
+.header {
+    border: solid 3px black;
+    height: 50px;
+    background-color: lightgreen;
+    margin-top: 20px;
+    margin-bottom: 10px;
+}
+
+.box {
+    border: solid 3px black;
+    width: 100px;
+    height: 100px;
+    margin-top: -10px;
+}
+
+.box-orange {
+    background: orange;
+}
+
+.box-red {
+    background: red;
+}
+
+.box-blue {
+    background: lightblue;
+}
