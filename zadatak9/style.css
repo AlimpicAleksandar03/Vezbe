@@ -1,0 +1,46 @@
+.wrapper {
+    border: solid 1px black;
+    box-sizing: content-box;
+    width: 800px;
+    margin: 40px auto;
+}
+
+.box-blue {
+    border: solid 1px black;
+    width: 400px;
+    height: 150px;
+    background: blue;
+}
+
+.box-green {
+    border: solid 1px black;
+    width: 400px;
+    height: 150px;
+    background: darkgreen;
+}
+
+.column-wide {
+    display: flex;
+}
+
+.box-grey, .box-black, .box-yellow {
+    border: solid 1px black;
+    width: 400px;
+    height: 300px;
+}
+
+.column-small {
+    display: flex;
+}
+
+.box-grey {
+    background: grey;
+}
+
+.box-black {
+    background: rgb(0, 0, 0);
+}
+
+.box-yellow{
+    background: yellow;
+}
